@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class Solution {
+public class WeekOfCode23UnexpectedProblemSolution {
 
     public static void main(String[] args) {
         /* we need to find any repeating pattern that lasts thru the whole string, then take 
