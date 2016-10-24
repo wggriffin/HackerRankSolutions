@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class DijkstraShortestReach2AdjacencyMatrixSolution {
     /* Solves Dijkstra: Shortest Reach 2 problem on HackerRank using adjacency matrix and 
        Dijkstra's Algorithm, only times out on final test case. */
 
